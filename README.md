@@ -96,9 +96,11 @@
 <br>
 <br>
 
-<div align="center">
+<div align="center" style="border-radius: 20px;">
   <!-- GitHub Stats -->
   <h2 style="color: #44AEFB">📊 GitHub Stats</h2>
+
+  ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenmunowwar&show_icons=true&locale=en&theme=algolia)
 
