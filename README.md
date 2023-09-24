@@ -96,9 +96,9 @@
 <br>
 <br>
 
-<div align="center" style="border-radius: 20px;">
+<div align="center">
   <!-- GitHub Stats -->
-  <h2 style="color: #44AEFB">📊 GitHub Stats</h2>
+  <h2 style="color: #44AEFB">📊 Stats</h2>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseenmunowwar&show_icons=true&locale=en&theme=algolia&border_radius=20)
 
