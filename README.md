@@ -1,6 +1,6 @@
 <img src="https://github.com/YaseenMunowwar/YaseenMunowwar/blob/main/1644953067643.jpeg" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Ahmed Yaseen Munowwar</h1>
-<h3 align="center">A passionate Data Science Intern specializing in LLM Development utilizing Generative AI</h3> 
+<h3 align="center">A passionate Data Scientist specializing in LLM Development utilizing Generative AI</h3> 
 <br>
 <div align="center">
     <center> <img src="https://komarev.com/ghpvc/?username=yaseenmunowwar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="yaseenmunowwar" /> </center>
