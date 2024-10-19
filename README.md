@@ -1,6 +1,6 @@
 <img src="https://github.com/YaseenMunowwar/YaseenMunowwar/blob/main/1644953067643.jpeg" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Ahmed Yaseen Munowwar</h1>
-<h4 align="center">A Visionary Generative AI Developer specializing in AI initiatives aligned with business strategies. Proven success in transforming organizational capabilities through AI and driving business value in marketing automation, eCommerce, customer care, and travel assistants. </h4> 
+<h4 align="center">A Visionary Data Scientist specializing in AI initiatives aligned with business strategies. Proven success in transforming organizational capabilities through AI and driving business value in marketing automation, eCommerce, customer care, and travel assistants. </h4> 
 <br>
 
 <div align="center">
@@ -87,9 +87,6 @@
     </a>
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
     </a>
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
