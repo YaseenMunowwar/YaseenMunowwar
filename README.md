@@ -1,6 +1,6 @@
 <img src="https://github.com/YaseenMunowwar/YaseenMunowwar/blob/main/1644953067643.jpeg" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Ahmed Yaseen Munowwar</h1>
-<h3 align="center">A Visionary Generative AI Developer specializing in AI initiatives aligned with business strategies. Proven success in transforming organizational capabilities through AI and driving business value in marketing automation, eCommerce, customer care, and travel assistants. Currently focused on building end-to-end production-ready AI applications that enhance B2B lead generation, customer engagement, and automated travel support.</h3> 
+<h3 align="center">A Visionary Generative AI Developer specializing in AI initiatives aligned with business strategies. Proven success in transforming organizational capabilities through AI and driving business value in marketing automation, eCommerce, customer care, and travel assistants. </h3> 
 <br>
 
 <div align="center">
